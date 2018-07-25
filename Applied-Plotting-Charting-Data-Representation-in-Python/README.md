@@ -17,4 +17,17 @@ Week 2 Reference
     http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
 
 
+Week 3 Reference
+- He, K., & Meeden, G. (1997). Selecting the Number of Bins in a Histogram: A Decision Theoretic Approach. Journal of Statistical Planning and inference, 61(1), 49-59.
+    http://users.stat.umn.edu/~gmeeden/papers/hist.pdf
 
+- Ferreira, N., Fisher, D., & Konig, A. C. (2014, April). Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 571-580). ACM
+    https://drive.google.com/file/d/0B7Tj31nhk4BAeFJ1Y1lwQmpMQVk/view
+
+    The authors have provided a related video which may be of further value in explaining the research.
+    
+Week 4 Reference
+- A spurious correlation is a correlation that happens from chance alone, and these correlations are one of the reasons scientists use statistics with confidence levels (p-values or confidence intervals) and/or limit their searching to theoretically grounded effects (e.g. pre-registration of hypotheses).
+
+    The spurious correlations website lists a number of correlations which exist but seem unlikely to be causally related to one another. Do you see any in this list which you think are not spurious, and may have a causal relationship? Discuss in the forums, and provide links as appropriate.
+    http://www.tylervigen.com/spurious-correlations
